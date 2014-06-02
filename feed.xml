@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Front View</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="mmtdigital.github.io/newsletter/feed.xml" />
-<link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/" />
-<updated>2014-06-02T06:37:35-04:00</updated>
-<id>mmtdigital.github.io/newsletter/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="/" />
+<updated>2014-06-02T06:39:06-04:00</updated>
+<id>/</id>
 <author>
   <name>MMT Digital</name>
-  <uri>mmtdigital.github.io/newsletter/</uri>
+  <uri>/</uri>
   <email>frontendteam@mmtdigital.co.uk</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[May Roundup]]></title>
-  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/summary/may-newsletter/"/>
-  <id>mmtdigital.github.io/newsletter/summary/may-newsletter</id>
+  <link rel="alternate" type="text/html" href="/summary/may-newsletter/"/>
+  <id>/summary/may-newsletter</id>
   <published>2014-06-02T00:00:00-04:00</published>
   <updated>2014-06-02T00:00:00-04:00</updated>
   <author>
     <name>MMT Digital</name>
-    <uri>mmtdigital.github.io/newsletter</uri>
+    <uri></uri>
     <email>frontendteam@mmtdigital.co.uk</email>
   </author>
   <content type="html">&lt;p&gt;May 2014 heralds the inaugural edition of the Front End Team Newsletter, part of a drive to better share our
@@ -30,7 +30,7 @@ collective wisdom, training resources, presentations and make them available wit
 &lt;p&gt;This month, we have the following content for your consumption:&lt;/p&gt;
 
 &lt;div class=&quot;pull-left&quot;&gt;
-  &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/ghostlab_robot.png&quot; alt=&quot;Ghostlab logo&quot; /&gt;&lt;/p&gt;
+  &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;/images/ghostlab_robot.png&quot; alt=&quot;Ghostlab logo&quot; /&gt;&lt;/p&gt;
 
   &lt;h2 id=&quot;introducing-the-testing-suitenewslettertestingtesting-suite&quot;&gt;&lt;a href=&quot;/newsletter/testing/testing-suite/&quot;&gt;Introducing the Testing Suite&lt;/a&gt;&lt;/h2&gt;
   &lt;p&gt;As some of you may have noticed, the Batcaves’ Testing Suite has been implemented, and thanks to some volunteers, 
@@ -41,7 +41,7 @@ beta tested.
 
 
 &lt;div class=&quot;pull-left&quot;&gt;
-        &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/accessibility-thumb.jpg&quot; alt=&quot;Accessibility image&quot; /&gt;&lt;/p&gt;
+        &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;/images/accessibility-thumb.jpg&quot; alt=&quot;Accessibility image&quot; /&gt;&lt;/p&gt;
 
         &lt;h2 id=&quot;make-your-website-accessiblenewsletteraccessibilitymake-your-website-accessible&quot;&gt;&lt;a href=&quot;/newsletter/accessibility/make-your-website-accessible/&quot;&gt;Make your website accessible&lt;/a&gt;&lt;/h2&gt;
         &lt;p&gt;There are lots of disabilities out there, but accessing your website should not pose an obstacle to any user. We, as 
@@ -51,7 +51,7 @@ web developers, should do all we can to make sure we can make our site as access
 
 
 &lt;div class=&quot;pull-left&quot;&gt;
-              &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/cache-busting-thumb.jpg&quot; alt=&quot;Hulk bust cache!&quot; /&gt;&lt;/p&gt;
+              &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;/images/cache-busting-thumb.jpg&quot; alt=&quot;Hulk bust cache!&quot; /&gt;&lt;/p&gt;
 
               &lt;h2 id=&quot;cache-busting-part-1newsletterperformancecache-busting&quot;&gt;&lt;a href=&quot;/newsletter/performance/cache-busting/&quot;&gt;Cache Busting: Part 1&lt;/a&gt;&lt;/h2&gt;
               &lt;p&gt;Caching busting stops browsers from using a cached file when an new updated version is available. So, how do you ‘cache bust’?&lt;/p&gt;
@@ -60,7 +60,7 @@ web developers, should do all we can to make sure we can make our site as access
 
 
 &lt;div class=&quot;pull-left&quot;&gt;
-                    &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/carousel-thumb.png&quot; alt=&quot;Carousel image&quot; /&gt;&lt;/p&gt;
+                    &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;/images/carousel-thumb.png&quot; alt=&quot;Carousel image&quot; /&gt;&lt;/p&gt;
 
                     &lt;h2 id=&quot;carousels--which-are-the-good-ones-out-therenewsletterpluginscarousel-plugins&quot;&gt;&lt;a href=&quot;/newsletter/plugins/carousel-plugins/&quot;&gt;Carousels – Which are the good ones out there?&lt;/a&gt;&lt;/h2&gt;
                     &lt;p&gt;How do you pick your Carousel plugin? &lt;br /&gt;Which ones are worth your time, and which aren’t?&lt;/p&gt;
@@ -69,7 +69,7 @@ web developers, should do all we can to make sure we can make our site as access
 
 
 &lt;div class=&quot;pull-left&quot;&gt;
-                          &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/responsive_thumb.jpg&quot; alt=&quot;Responsive images&quot; /&gt;&lt;/p&gt;
+                          &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;/images/responsive_thumb.jpg&quot; alt=&quot;Responsive images&quot; /&gt;&lt;/p&gt;
 
                           &lt;h2 id=&quot;responsive-imagesnewsletterpresentationsresponsive-images&quot;&gt;&lt;a href=&quot;/newsletter/presentations/responsive-images/&quot;&gt;Responsive Images&lt;/a&gt;&lt;/h2&gt;
                           &lt;p&gt;What’s the correct approach to the responsive images conundrum? Is it the fabled &lt;strong&gt;picture&lt;/strong&gt; element? What about 
@@ -79,7 +79,7 @@ web developers, should do all we can to make sure we can make our site as access
 
 
 &lt;div class=&quot;pull-left&quot;&gt;
-                                &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/grunt-logo.gif&quot; alt=&quot;Grunt logo&quot; /&gt;&lt;/p&gt;
+                                &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;/images/grunt-logo.gif&quot; alt=&quot;Grunt logo&quot; /&gt;&lt;/p&gt;
 
                                 &lt;h2 id=&quot;automation-for-the-winnewslettertoolsautomate-all-the-things&quot;&gt;&lt;a href=&quot;/newsletter/tools/automate-all-the-things/&quot;&gt;Automation For The Win&lt;/a&gt;&lt;/h2&gt;
                                 &lt;p&gt;Great Developers are often also Lazy Developers. It’s not a criticism, it’s a good thing.  If you’re going to have to 
@@ -101,19 +101,19 @@ repeat the same tasks all the time, you might as well automate them…&lt;/p&gt;
       &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/summary/may-newsletter/&quot;&gt;May Roundup&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/summary/may-newsletter/&quot;&gt;May Roundup&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Carousels – Which are the good ones out there?]]></title>
-  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/plugins/carousel-plugins/"/>
-  <id>mmtdigital.github.io/newsletter/plugins/carousel-plugins</id>
+  <link rel="alternate" type="text/html" href="/plugins/carousel-plugins/"/>
+  <id>/plugins/carousel-plugins</id>
   <published>2014-06-02T00:00:00-04:00</published>
   <updated>2014-06-02T00:00:00-04:00</updated>
   <author>
     <name>MMT Digital</name>
-    <uri>mmtdigital.github.io/newsletter</uri>
+    <uri></uri>
     <email>frontendteam@mmtdigital.co.uk</email>
   </author>
   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
@@ -158,19 +158,19 @@ repeat the same tasks all the time, you might as well automate them…&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;http://baijs.com/tinycarousel/&quot;&gt;Tiny Carousel&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/plugins/carousel-plugins/&quot;&gt;Carousels – Which are the good ones out there?&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/plugins/carousel-plugins/&quot;&gt;Carousels – Which are the good ones out there?&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cache Busting]]></title>
-  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/performance/cache-busting/"/>
-  <id>mmtdigital.github.io/newsletter/performance/cache-busting</id>
+  <link rel="alternate" type="text/html" href="/performance/cache-busting/"/>
+  <id>/performance/cache-busting</id>
   <published>2014-06-02T00:00:00-04:00</published>
   <updated>2014-06-02T00:00:00-04:00</updated>
   <author>
     <name>MMT Digital</name>
-    <uri>mmtdigital.github.io/newsletter</uri>
+    <uri></uri>
     <email>frontendteam@mmtdigital.co.uk</email>
   </author>
   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
@@ -199,19 +199,19 @@ repeat the same tasks all the time, you might as well automate them…&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/docs/best-practices/caching?csw=1#LeverageProxyCaching&quot;&gt;Google : Leverage proxy caching&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/performance/cache-busting/&quot;&gt;Cache Busting&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/performance/cache-busting/&quot;&gt;Cache Busting&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Introducing the Testing Suite]]></title>
-  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/testing/testing-suite/"/>
-  <id>mmtdigital.github.io/newsletter/testing/testing-suite</id>
+  <link rel="alternate" type="text/html" href="/testing/testing-suite/"/>
+  <id>/testing/testing-suite</id>
   <published>2014-05-30T00:00:00-04:00</published>
   <updated>2014-05-30T00:00:00-04:00</updated>
   <author>
     <name>MMT Digital</name>
-    <uri>mmtdigital.github.io/newsletter</uri>
+    <uri></uri>
     <email>frontendteam@mmtdigital.co.uk</email>
   </author>
   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
@@ -269,19 +269,19 @@ quickly see your site across multiple browsers in their native environments.&lt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/xdissent/ievms&quot;&gt;GitHub: IEVMS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/testing/testing-suite/&quot;&gt;Introducing the Testing Suite&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on May 30, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/testing/testing-suite/&quot;&gt;Introducing the Testing Suite&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;&quot;&gt;Front View&lt;/a&gt; on May 30, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Make your website accessible]]></title>
-  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/accessibility/make-your-website-accessible/"/>
-  <id>mmtdigital.github.io/newsletter/accessibility/make-your-website-accessible</id>
+  <link rel="alternate" type="text/html" href="/accessibility/make-your-website-accessible/"/>
+  <id>/accessibility/make-your-website-accessible</id>
   <published>2014-04-13T00:00:00-04:00</published>
   <updated>2014-04-13T00:00:00-04:00</updated>
   <author>
     <name>MMT Digital</name>
-    <uri>mmtdigital.github.io/newsletter</uri>
+    <uri></uri>
     <email>frontendteam@mmtdigital.co.uk</email>
   </author>
   <content type="html">&lt;p&gt;There are lots of disabilities out there, but accessing your website should not pose an obstacle to any user. 
@@ -338,19 +338,19 @@ help towards making your site accessible.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/accessibility/make-your-website-accessible/&quot;&gt;Make your website accessible&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on April 13, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/accessibility/make-your-website-accessible/&quot;&gt;Make your website accessible&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;&quot;&gt;Front View&lt;/a&gt; on April 13, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Responsive Images (in 10 minutes)]]></title>
-  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/presentations/responsive-images/"/>
-  <id>mmtdigital.github.io/newsletter/presentations/responsive-images</id>
+  <link rel="alternate" type="text/html" href="/presentations/responsive-images/"/>
+  <id>/presentations/responsive-images</id>
   <published>2014-03-27T00:00:00-04:00</published>
   <updated>2014-03-27T00:00:00-04:00</updated>
   <author>
     <name>MMT Digital</name>
-    <uri>mmtdigital.github.io/newsletter</uri>
+    <uri></uri>
     <email>frontendteam@mmtdigital.co.uk</email>
   </author>
   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
@@ -384,19 +384,19 @@ help towards making your site accessible.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;http://ericportis.com/posts/2014/srcset-sizes/&quot;&gt;Srcset and sizes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/presentations/responsive-images/&quot;&gt;Responsive Images (in 10 minutes)&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on March 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/presentations/responsive-images/&quot;&gt;Responsive Images (in 10 minutes)&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;&quot;&gt;Front View&lt;/a&gt; on March 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Automation For The Win]]></title>
-  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/tools/automate-all-the-things/"/>
-  <id>mmtdigital.github.io/newsletter/tools/automate-all-the-things</id>
+  <link rel="alternate" type="text/html" href="/tools/automate-all-the-things/"/>
+  <id>/tools/automate-all-the-things</id>
   <published>2014-03-05T00:00:00-05:00</published>
   <updated>2014-03-05T00:00:00-05:00</updated>
   <author>
     <name>MMT Digital</name>
-    <uri>mmtdigital.github.io/newsletter</uri>
+    <uri></uri>
     <email>frontendteam@mmtdigital.co.uk</email>
   </author>
   <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
@@ -467,7 +467,7 @@ control, once you’re on the bandwagon you’ll wonder why you ever tried to li
 
 &lt;p&gt;&lt;img src=&quot;/newsletter/images/automation-awesome.gif&quot; alt=&quot;Automation is great, isn&#39;t it?&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/tools/automate-all-the-things/&quot;&gt;Automation For The Win&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on March 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/tools/automate-all-the-things/&quot;&gt;Automation For The Win&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;&quot;&gt;Front View&lt;/a&gt; on March 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
