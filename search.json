@@ -1,0 +1,59 @@
+[
+	
+		{
+		  "title"      : "May Roundup",
+		  "category"   : "summary",
+		  "url"        : "mmtdigital.github.io/newsletter/summary/may-newsletter/",
+		  "date"       : "2014-06-02 00:00:00 -0400",
+		  "shortdate"  : "June 02, 2014"
+		} ,
+	
+		{
+		  "title"      : "Carousels – Which are the good ones out there?",
+		  "category"   : "plugins",
+		  "url"        : "mmtdigital.github.io/newsletter/plugins/carousel-plugins/",
+		  "date"       : "2014-06-02 00:00:00 -0400",
+		  "shortdate"  : "June 02, 2014"
+		} ,
+	
+		{
+		  "title"      : "Cache Busting",
+		  "category"   : "performance",
+		  "url"        : "mmtdigital.github.io/newsletter/performance/cache-busting/",
+		  "date"       : "2014-06-02 00:00:00 -0400",
+		  "shortdate"  : "June 02, 2014"
+		} ,
+	
+		{
+		  "title"      : "Introducing the Testing Suite",
+		  "category"   : "testing",
+		  "url"        : "mmtdigital.github.io/newsletter/testing/testing-suite/",
+		  "date"       : "2014-05-30 00:00:00 -0400",
+		  "shortdate"  : "May 30, 2014"
+		} ,
+	
+		{
+		  "title"      : "Make your website accessible",
+		  "category"   : "accessibility",
+		  "url"        : "mmtdigital.github.io/newsletter/accessibility/make-your-website-accessible/",
+		  "date"       : "2014-04-13 00:00:00 -0400",
+		  "shortdate"  : "April 13, 2014"
+		} ,
+	
+		{
+		  "title"      : "Responsive Images (in 10 minutes)",
+		  "category"   : "presentations",
+		  "url"        : "mmtdigital.github.io/newsletter/presentations/responsive-images/",
+		  "date"       : "2014-03-27 00:00:00 -0400",
+		  "shortdate"  : "March 27, 2014"
+		} ,
+	
+		{
+		  "title"      : "Automation For The Win",
+		  "category"   : "tools",
+		  "url"        : "mmtdigital.github.io/newsletter/tools/automate-all-the-things/",
+		  "date"       : "2014-03-05 00:00:00 -0500",
+		  "shortdate"  : "March 05, 2014"
+		} 
+	
+]

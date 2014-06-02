@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Front View</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="mmtdigital.github.io/newsletter/feed.xml" />
+<link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/" />
+<updated>2014-06-02T06:37:35-04:00</updated>
+<id>mmtdigital.github.io/newsletter/</id>
+<author>
+  <name>MMT Digital</name>
+  <uri>mmtdigital.github.io/newsletter/</uri>
+  <email>frontendteam@mmtdigital.co.uk</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[May Roundup]]></title>
+  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/summary/may-newsletter/"/>
+  <id>mmtdigital.github.io/newsletter/summary/may-newsletter</id>
+  <published>2014-06-02T00:00:00-04:00</published>
+  <updated>2014-06-02T00:00:00-04:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>mmtdigital.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;p&gt;May 2014 heralds the inaugural edition of the Front End Team Newsletter, part of a drive to better share our
+collective wisdom, training resources, presentations and make them available with the rest of the company.&lt;/p&gt;
+
+&lt;p&gt;This month, we have the following content for your consumption:&lt;/p&gt;
+
+&lt;div class=&quot;pull-left&quot;&gt;
+  &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/ghostlab_robot.png&quot; alt=&quot;Ghostlab logo&quot; /&gt;&lt;/p&gt;
+
+  &lt;h2 id=&quot;introducing-the-testing-suitenewslettertestingtesting-suite&quot;&gt;&lt;a href=&quot;/newsletter/testing/testing-suite/&quot;&gt;Introducing the Testing Suite&lt;/a&gt;&lt;/h2&gt;
+  &lt;p&gt;As some of you may have noticed, the Batcaves’ Testing Suite has been implemented, and thanks to some volunteers, 
+beta tested. 
+&lt;strong&gt;So what is it, and how does it work?&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;div&gt;&lt;a href=&quot;/newsletter/testing/testing-suite/&quot; class=&quot;btn&quot;&gt;Read: Introducing the Testing Suite&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div class=&quot;pull-left&quot;&gt;
+        &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/accessibility-thumb.jpg&quot; alt=&quot;Accessibility image&quot; /&gt;&lt;/p&gt;
+
+        &lt;h2 id=&quot;make-your-website-accessiblenewsletteraccessibilitymake-your-website-accessible&quot;&gt;&lt;a href=&quot;/newsletter/accessibility/make-your-website-accessible/&quot;&gt;Make your website accessible&lt;/a&gt;&lt;/h2&gt;
+        &lt;p&gt;There are lots of disabilities out there, but accessing your website should not pose an obstacle to any user. We, as 
+web developers, should do all we can to make sure we can make our site as accessible as possible.&lt;/p&gt;
+
+        &lt;div&gt;&lt;a href=&quot;/newsletter/accessibility/make-your-website-accessible/&quot; class=&quot;btn&quot;&gt;Read: Make your website accessible&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div class=&quot;pull-left&quot;&gt;
+              &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/cache-busting-thumb.jpg&quot; alt=&quot;Hulk bust cache!&quot; /&gt;&lt;/p&gt;
+
+              &lt;h2 id=&quot;cache-busting-part-1newsletterperformancecache-busting&quot;&gt;&lt;a href=&quot;/newsletter/performance/cache-busting/&quot;&gt;Cache Busting: Part 1&lt;/a&gt;&lt;/h2&gt;
+              &lt;p&gt;Caching busting stops browsers from using a cached file when an new updated version is available. So, how do you ‘cache bust’?&lt;/p&gt;
+
+              &lt;div&gt;&lt;a href=&quot;/newsletter/performance/cache-busting/&quot; class=&quot;btn&quot;&gt;Read: Cache Busting: Part 1&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div class=&quot;pull-left&quot;&gt;
+                    &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/carousel-thumb.png&quot; alt=&quot;Carousel image&quot; /&gt;&lt;/p&gt;
+
+                    &lt;h2 id=&quot;carousels--which-are-the-good-ones-out-therenewsletterpluginscarousel-plugins&quot;&gt;&lt;a href=&quot;/newsletter/plugins/carousel-plugins/&quot;&gt;Carousels – Which are the good ones out there?&lt;/a&gt;&lt;/h2&gt;
+                    &lt;p&gt;How do you pick your Carousel plugin? &lt;br /&gt;Which ones are worth your time, and which aren’t?&lt;/p&gt;
+
+                    &lt;div&gt;&lt;a href=&quot;/newsletter/plugins/carousel-plugins/&quot; class=&quot;btn&quot;&gt;Read: Carousels – Which are the good ones out there?&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div class=&quot;pull-left&quot;&gt;
+                          &lt;p class=&quot;pull-left third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/responsive_thumb.jpg&quot; alt=&quot;Responsive images&quot; /&gt;&lt;/p&gt;
+
+                          &lt;h2 id=&quot;responsive-imagesnewsletterpresentationsresponsive-images&quot;&gt;&lt;a href=&quot;/newsletter/presentations/responsive-images/&quot;&gt;Responsive Images&lt;/a&gt;&lt;/h2&gt;
+                          &lt;p&gt;What’s the correct approach to the responsive images conundrum? Is it the fabled &lt;strong&gt;picture&lt;/strong&gt; element? What about 
+&lt;strong&gt;srcset&lt;/strong&gt;? How about just doing it with Javascript, or does the solution lie somewhere else entirely?&lt;/p&gt;
+
+                          &lt;div&gt;&lt;a href=&quot;/newsletter/presentations/responsive-images/&quot; class=&quot;btn&quot;&gt;Read: Responsive images (in 10 minutes)&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div class=&quot;pull-left&quot;&gt;
+                                &lt;p class=&quot;pull-right third&quot;&gt;&lt;img src=&quot;mmtdigital.github.io/newsletter/images/grunt-logo.gif&quot; alt=&quot;Grunt logo&quot; /&gt;&lt;/p&gt;
+
+                                &lt;h2 id=&quot;automation-for-the-winnewslettertoolsautomate-all-the-things&quot;&gt;&lt;a href=&quot;/newsletter/tools/automate-all-the-things/&quot;&gt;Automation For The Win&lt;/a&gt;&lt;/h2&gt;
+                                &lt;p&gt;Great Developers are often also Lazy Developers. It’s not a criticism, it’s a good thing.  If you’re going to have to 
+repeat the same tasks all the time, you might as well automate them…&lt;/p&gt;
+
+                                &lt;div&gt;&lt;a href=&quot;/newsletter/tools/automate-all-the-things/&quot; class=&quot;btn&quot;&gt;Read: Automation For The Win&lt;/a&gt;&lt;p&gt;
+
+
+&lt;div&gt;
+                                      &lt;blockquote&gt;
+                                        &lt;p&gt;Until next time – The Front End Team&lt;/p&gt;
+                                      &lt;/blockquote&gt;
+                                    &lt;/div&gt;
+&lt;/p&gt;&lt;/div&gt;
+                              &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
+                        &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
+                  &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/summary/may-newsletter/&quot;&gt;May Roundup&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Carousels – Which are the good ones out there?]]></title>
+  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/plugins/carousel-plugins/"/>
+  <id>mmtdigital.github.io/newsletter/plugins/carousel-plugins</id>
+  <published>2014-06-02T00:00:00-04:00</published>
+  <updated>2014-06-02T00:00:00-04:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>mmtdigital.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I’ve got to be honest, when I’m usually hunting for a Carousel plug-in I usually just use the first one I come and then use that continuously until I come across a problem with it, I’ll then usually browse till the next one I come across.  This is done for convenience and to keep a project on target to reach its deadline but then when thinking it through, this might not meet all the requirements that I need from a carousel.&lt;/p&gt;
+
+&lt;p&gt;For this reason I thought this might be a good topic to write about because I’m sure there are people who feel the same as me, and it might also help when it comes to the next project I start on, which needs a Carousel.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;So what are we looking for in a carousel plug-in?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The ability to have more than one carousel on a page, especially useful when a client is ‘carousel thirsty’&lt;/li&gt;
+  &lt;li&gt;Works responsively&lt;/li&gt;
+  &lt;li&gt;Works well with both text and images&lt;/li&gt;
+  &lt;li&gt;Flexibility when it comes to the carousel itself (don’t want to be writing additional lines of code to customise the carousel, as the plug-in should be doing this for you)&lt;/li&gt;
+  &lt;li&gt;Easy to implement&lt;/li&gt;
+  &lt;li&gt;Compatible with other jQuery tools on your website&lt;/li&gt;
+  &lt;li&gt;Supports major browsers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So what’s out there on a glance that may help out with the above: -&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codecanyon.net/item/royal-3d-carousel/5351369&quot;&gt;Royal 3D Carousel in JavaScript &amp;amp; CSS3&lt;/a&gt; &lt;em&gt;(Do have to pay for a licence)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kenwheeler.github.io/slick/&quot;&gt;Slick:jQuery Fully Responsive Carousel Plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codecanyon.net/item/everslider-responsive-jquery-carousel-plugin/5132868&quot;&gt;Everslider: Responsive jQuery Carousel Plugin&lt;/a&gt; &lt;em&gt;(Do have to pay for a licence)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bxslider.com/&quot;&gt;Bx Slider&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wowslider.com/rq/jquery-carousel/&quot;&gt;Wow Slider&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://baijs.com/tinycarousel/&quot;&gt;Tiny Carousel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The majority of the above, handle the requirements (from the bullet point list), that’s not to say they are the definitive list and there’s nothing to stop you building your own Jquery Carousel plug-in, but the above should help you on your way.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;http://www.jqueryrain.com/example/jquery-carousel-example/&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codecanyon.net/item/royal-3d-carousel/5351369&quot;&gt;Royal 3D Carousel in JavaScript &amp;amp; CSS3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kenwheeler.github.io/slick/&quot;&gt;Slick:jQuery Fully Responsive Carousel Plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codecanyon.net/item/everslider-responsive-jquery-carousel-plugin/5132868&quot;&gt;Everslider: Responsive jQuery Carousel Plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bxslider.com/&quot;&gt;Bx Slider&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wowslider.com/rq/jquery-carousel/&quot;&gt;Wow Slider&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://baijs.com/tinycarousel/&quot;&gt;Tiny Carousel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/plugins/carousel-plugins/&quot;&gt;Carousels – Which are the good ones out there?&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Cache Busting]]></title>
+  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/performance/cache-busting/"/>
+  <id>mmtdigital.github.io/newsletter/performance/cache-busting</id>
+  <published>2014-06-02T00:00:00-04:00</published>
+  <updated>2014-06-02T00:00:00-04:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>mmtdigital.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Caching busting stops browsers from using a cached file when an new updated version is available.&lt;/p&gt;
+
+&lt;p&gt;If you are following best practices for caching your assets (&lt;a href=&quot;https://developers.google.com/speed/docs/best-practices/caching&quot;&gt;Google - Optimize Caching&lt;/a&gt;) you might find that browsers will used the cached version of a file even when a new updated version is available.&lt;/p&gt;
+
+&lt;p&gt;This issue becomes worse when proxies, load balancers and other &lt;em&gt;helpful&lt;/em&gt; machines are taken into consideration.&lt;/p&gt;
+
+&lt;p&gt;To get around problem you need to &lt;em&gt;cache bust&lt;/em&gt; meaning that the browser and anything in between knows to request the latest version of the file. There are a number of ways this can be done, best practice is to rename the whole file by appending a version number, date/time or hash to the end of the file name.&lt;/p&gt;
+
+&lt;p&gt;This process can be done a number of ways including: Build process, Grunt or Web server configuration.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Browsers, proxies and other servers can cache files even when they have changed.&lt;/li&gt;
+  &lt;li&gt;Giving a file a unique filename will help break any caching occurring on file updates.&lt;/li&gt;
+  &lt;li&gt;Renaming the file is better than adding a query string.&lt;/li&gt;
+  &lt;li&gt;Multiple ways of automating this process. Build Process, Grunt, Web Server configuration.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.adopsinsider.com/ad-ops-basics/what-is-a-cache-buster-and-how-does-it-work/&quot;&gt;What is a cache buster and how does it work?&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/&quot;&gt;Revving Filenames: don’t use querystring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/docs/best-practices/caching?csw=1#LeverageProxyCaching&quot;&gt;Google : Leverage proxy caching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/performance/cache-busting/&quot;&gt;Cache Busting&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on June 02, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Introducing the Testing Suite]]></title>
+  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/testing/testing-suite/"/>
+  <id>mmtdigital.github.io/newsletter/testing/testing-suite</id>
+  <published>2014-05-30T00:00:00-04:00</published>
+  <updated>2014-05-30T00:00:00-04:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>mmtdigital.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;As some of you may have noticed, the Batcaves’ Testing Suite has been implemented, and thanks to some volunteers, beta 
+tested.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-it&quot;&gt;What is it?&lt;/h3&gt;
+&lt;p&gt;The Testing Suite is simply a collection of mobile devices connected to a proxy server (the Mac Mini), that allows a 
+user to manipulate a single device and see those replicate across each of the other devices, which means you can 
+quickly see your site across multiple browsers in their native environments.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;div&gt;&lt;a href=&quot;/newsletter/assets/downloads/mmt-testing-suite.pdf&quot; class=&quot;btn&quot;&gt;Download the &quot;Testing Suite Instructions&quot; document.&lt;/a&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;how-does-it-work&quot;&gt;How does it work?&lt;/h3&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/QfLKXTv4d8Q&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;what-devicesbrowsers-are-supported-in-the-testing-suite&quot;&gt;What devices/browsers are supported in the Testing Suite?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iOS
+    &lt;ul&gt;
+      &lt;li&gt;iPod (non-retina)&lt;/li&gt;
+      &lt;li&gt;iPhone 4s (retina)&lt;/li&gt;
+      &lt;li&gt;iPad Air&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Windows
+    &lt;ul&gt;
+      &lt;li&gt;Microsoft Surface RT&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Android
+    &lt;ul&gt;
+      &lt;li&gt;Samsung Galaxy S3&lt;/li&gt;
+      &lt;li&gt;Samsung Nexus 7&lt;/li&gt;
+      &lt;li&gt;Google Nexus One&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Browsers
+    &lt;ul&gt;
+      &lt;li&gt;IE 6, 7, 8, 9, 10, 11 (Via Virtual Images)&lt;/li&gt;
+      &lt;li&gt;Chrome&lt;/li&gt;
+      &lt;li&gt;Firefox&lt;/li&gt;
+      &lt;li&gt;Safari&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/newsletter/assets/downloads/mmt-testing-suite.pdf&quot;&gt;Testing Suite Instructions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://vanamco.com/ghostlab/&quot;&gt;Ghostlab: Synchronized browser testing for web and mobile.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://feedback.vanamco.com/knowledgebase&quot;&gt;Ghostlab knowledge Base&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/xdissent/ievms&quot;&gt;GitHub: IEVMS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/testing/testing-suite/&quot;&gt;Introducing the Testing Suite&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on May 30, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Make your website accessible]]></title>
+  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/accessibility/make-your-website-accessible/"/>
+  <id>mmtdigital.github.io/newsletter/accessibility/make-your-website-accessible</id>
+  <published>2014-04-13T00:00:00-04:00</published>
+  <updated>2014-04-13T00:00:00-04:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>mmtdigital.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;p&gt;There are lots of disabilities out there, but accessing your website should not pose an obstacle to any user. 
+We, as web developers, should do all we can to make sure we can make our site as accessible as possible.&lt;/p&gt;
+
+&lt;h2 id=&quot;do-you-know-what-problems-disabled-users-are-faced-with-when-accessing-a-website&quot;&gt;Do you know what problems disabled users are faced with when accessing a website?&lt;/h2&gt;
+
+&lt;p&gt;Common problems faced are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Accessing a page without using your mouse.&lt;/li&gt;
+  &lt;li&gt;Screen readers read out unwanted information left on the site.&lt;/li&gt;
+  &lt;li&gt;Media on the site without a transcript.&lt;/li&gt;
+  &lt;li&gt;Audio on a site, but no alternative for deaf or hard of hearing users.&lt;/li&gt;
+  &lt;li&gt;Graphical media with no alternative text.&lt;/li&gt;
+  &lt;li&gt;Links with no reference to where they go to.&lt;/li&gt;
+  &lt;li&gt;Can’t click on something without a mouse.&lt;/li&gt;
+  &lt;li&gt;I just want to read the article not the whole site HTML.&lt;/li&gt;
+  &lt;li&gt;I can’t read that text properly.&lt;/li&gt;
+  &lt;li&gt;Did something just happen?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are just &lt;em&gt;some&lt;/em&gt; examples of the common problems disabled users face when accessing websites. There are many more. 
+Most of these problems listed are something we, as developers, should be covering as standard best practices for 
+website builds.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-can-i-change-my-current-website-development-and-make-it-accessible&quot;&gt;How can I change my current website development and make it accessible?&lt;/h2&gt;
+
+&lt;p&gt;Well, I have the slides below from a recent presentation, which will get you thinking about Website Development 
+Accessibility and get you started with some of the standard procedures we should all be following.&lt;/p&gt;
+
+&lt;div class=&quot;fluidMedia&quot;&gt;
+    &lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/33463412&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/IleshMistry/website-development-accessibility&quot; title=&quot;Website development accessibility&quot; target=&quot;_blank&quot;&gt;Website development accessibility&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/IleshMistry&quot; target=&quot;_blank&quot;&gt;Ilesh Mistry&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As you can see, this is something that could be incorporated into every web developer’s processes to follow and will 
+help towards making your site accessible.&lt;/p&gt;
+
+&lt;h2 id=&quot;useful-links&quot;&gt;Useful links&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Page Checking tools
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://achecker.ca/checker/index.php&quot;&gt;AChecker - Accessibility Checker&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://wave.webaim.org/&quot;&gt;WAVE&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://validator.w3.org/&quot;&gt;W3C - Markup Validation Service&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://snook.ca/technical/colour_contrast/colour.html&quot;&gt;Colour Contrast Checker&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Screen readers
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.screenreader.net/&quot;&gt;Thunder Screenreader&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.nvaccess.org/&quot;&gt;NVDA&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/accessibility/make-your-website-accessible/&quot;&gt;Make your website accessible&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on April 13, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Responsive Images (in 10 minutes)]]></title>
+  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/presentations/responsive-images/"/>
+  <id>mmtdigital.github.io/newsletter/presentations/responsive-images</id>
+  <published>2014-03-27T00:00:00-04:00</published>
+  <updated>2014-03-27T00:00:00-04:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>mmtdigital.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;What’s the correct approach to the responsive images conundrum? Is it the fabled &lt;code&gt;&amp;lt;picture&amp;gt;&lt;/code&gt; element? What about &lt;code&gt;srcset&lt;/code&gt;? How about just doing it with Javascript, or does the solution lie somewhere else entirely?&lt;/p&gt;
+
+&lt;p&gt;In this presentation we looked at all of these, their limitations and their strengths, and examined which of these can actually be used &lt;em&gt;today.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fluidMedia&quot;&gt;
+    &lt;iframe src=&quot;https://docs.google.com/presentation/d/1cktnpwyXfKdPyYuvcG0LhyjqOiBl4JbCkjGlMBbonNg/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;960&quot; height=&quot;569&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Javascript-based solutions give us the best cross-browser support.&lt;/li&gt;
+  &lt;li&gt;SVG and the ‘Clown Car’ technique gives us the most complete feature set for todays’ browsers, works in &lt;a href=&quot;http://caniuse.com/#feat=css-mediaqueries,svg&quot;&gt;practically all browsers&lt;/a&gt;, but it’s difficult to generate and manage those files.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;srcset&lt;/strong&gt; is available in the &lt;a href=&quot;http://caniuse.com/srcset&quot;&gt;latest version of Chrome&lt;/a&gt;, but it doesn’t cover all of the possible ‘responsive image’ definitions.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;Picture&lt;/strong&gt; element is touted as the future, but the spec is not settled and no browsers implement it yet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All of these techniques have their benefits, and there’s decent polyfill libraries available for them, so a lot of the choices come down to evaluating the manageability of the solution and the importance of the element.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://responsiveimages.org/&quot;&gt;Responsive Images Community Group&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://css-tricks.com/which-responsive-images-solution-should-you-use/&quot;&gt;Which responsive images solution should you use?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/blog/post/picture-element-qa&quot;&gt;A Q&amp;amp;A on the Picture Element&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://html5doctor.com/html5-adaptive-images-end-of-round-one/&quot;&gt;HTML5 adaptive images: end of round one&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ericportis.com/posts/2014/srcset-sizes/&quot;&gt;Srcset and sizes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/presentations/responsive-images/&quot;&gt;Responsive Images (in 10 minutes)&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on March 27, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Automation For The Win]]></title>
+  <link rel="alternate" type="text/html" href="mmtdigital.github.io/newsletter/tools/automate-all-the-things/"/>
+  <id>mmtdigital.github.io/newsletter/tools/automate-all-the-things</id>
+  <published>2014-03-05T00:00:00-05:00</published>
+  <updated>2014-03-05T00:00:00-05:00</updated>
+  <author>
+    <name>MMT Digital</name>
+    <uri>mmtdigital.github.io/newsletter</uri>
+    <email>frontendteam@mmtdigital.co.uk</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Great Developers&lt;/strong&gt; are often also &lt;strong&gt;Lazy Developers&lt;/strong&gt;. It’s not a criticism, it’s a good thing. As the saying goes:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lazy programmers hate doing grunt work, and will, whenever possible, find ways to automate or scriptify the work, 
+instead of doing it by hand.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you’re going to have to repeat the same tasks all the time, you might as well automate them and start finding better 
+uses for all of that free time you’ll be having in the near future.&lt;/p&gt;
+
+&lt;p&gt;Automation itself is not a new concept, but it’s relatively recently - with the rise of tools like 
+&lt;a href=&quot;http://gruntjs.com/&quot;&gt;Grunt&lt;/a&gt; - that it’s crossed the threshold of being accessible to, and designed for those that work 
+in the realm of the “Front End”.  One of the key benefits of Grunt is that it’s a tool that’s extensible and built in a
+language which we’re all familiar with - &lt;em&gt;JavaScript&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-can-we-automate&quot;&gt;What can we automate?&lt;/h3&gt;
+
+&lt;p&gt;Often the most common elements that we need to automate are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;JavaScript minification&lt;/strong&gt;, combining lots of separate javascript files into one single, optimised file.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CSS minification&lt;/strong&gt;, and more importantly, using preprocessors such as SASS to generate our output CSS files.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Spritesheet generation&lt;/strong&gt;, because that’s an absolute nightmare to create and maintain by human hands. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Optimisation&lt;/strong&gt;, &lt;strong&gt;generation&lt;/strong&gt; or &lt;strong&gt;processing&lt;/strong&gt; of &lt;strong&gt;images&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There’s much more besides - such as uploading or downloading files, compressing archives, checking code quality or 
+executing command-line actions - and all of which can easily be boring, repetitive, complex and error prone all at the 
+same time.&lt;/p&gt;
+
+&lt;h3 id=&quot;an-introduction-to-grunt&quot;&gt;An introduction to Grunt&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gruntjs.com/&quot;&gt;Grunt&lt;/a&gt;  is our current weapon of choice for automating our repetitive local workflow tasks. In 
+December 2013 we had a “Brown Bag Session” introducing Grunt, and since then we’ve had some initiatives such as 
+&lt;em&gt;Automate ALL THE THINGS&lt;/em&gt; as a knowledge sharing exercise and to push Grunt’s adoption across a range of internal 
+projects.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Introducing Grunt&lt;/strong&gt; - a JavaScript-syntax tool for automating your build processes. Better than batch files, better 
+than rakefiles, better than ANT or anything else out there. I’m going to show you some magic, and then show you how to 
+make that magic happen yourself, and then your existing processes will look bleak, dull and boring in comparison.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;d71b909045610131812366ab85d4b2f5&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;(Naturally a presentation like this loses a bit of its ‘wow’ factor when it’s not actually being presented, so feel 
+free to talk to a Training Champion, James F or another member of the Front End Team for a personal recap.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The benefits of having these monotonous tasks scripted should be as obvious as using source control. And just like source 
+control, once you’re on the bandwagon you’ll wonder why you ever tried to live without it.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://24ways.org/2013/grunt-is-not-weird-and-hard/&quot;&gt;Grunt for People Who Think Things Like Grunt are Weird and Hard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://code.tutsplus.com/articles/an-introduction-to-grunt--wp-34728&quot;&gt;An Introduction To Grunt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yeoman.io/blog/performance-optimization.html&quot;&gt;Grunt and Gulp Tasks for Performance Optimization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/addyosmani/automating-front-end-workflow&quot;&gt;Presentation: Automating Front-end Workflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And finally, go build something awesome:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/newsletter/images/automation-awesome.gif&quot; alt=&quot;Automation is great, isn&#39;t it?&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;mmtdigital.github.io/newsletter/tools/automate-all-the-things/&quot;&gt;Automation For The Win&lt;/a&gt; was originally published by MMT Digital at &lt;a href=&quot;mmtdigital.github.io/newsletter&quot;&gt;Front View&lt;/a&gt; on March 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
