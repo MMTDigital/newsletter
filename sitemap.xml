@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>//mmtdigital.github.io/newsletter</loc>
     </url>
     
     
     <url>
-        <loc>/404.html</loc>
+        <loc>//mmtdigital.github.io/newsletter/404.html</loc>
     </url>
     
     <url>
-        <loc>/articles/</loc>
+        <loc>//mmtdigital.github.io/newsletter/articles/</loc>
     </url>
     
     <url>
-        <loc>/feed.xml</loc>
+        <loc>//mmtdigital.github.io/newsletter/feed.xml</loc>
     </url>
     
     <url>
-        <loc>/index.html</loc>
+        <loc>//mmtdigital.github.io/newsletter/index.html</loc>
     </url>
     
     <url>
-        <loc>/search.json</loc>
+        <loc>//mmtdigital.github.io/newsletter/search.json</loc>
     </url>
     
     <url>
-        <loc>/sitemap.xml</loc>
+        <loc>//mmtdigital.github.io/newsletter/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>/tags/</loc>
+        <loc>//mmtdigital.github.io/newsletter/tags/</loc>
     </url>
     
     <url>
-        <loc>/theme-setup/</loc>
+        <loc>//mmtdigital.github.io/newsletter/theme-setup/</loc>
     </url>
     
 
     
     <url>
-        <loc>/summary/may-newsletter/</loc>
+        <loc>//mmtdigital.github.io/newsletter/summary/may-newsletter/</loc>
     </url>
     
     <url>
-        <loc>/plugins/carousel-plugins/</loc>
+        <loc>//mmtdigital.github.io/newsletter/plugins/carousel-plugins/</loc>
     </url>
     
     <url>
-        <loc>/performance/cache-busting/</loc>
+        <loc>//mmtdigital.github.io/newsletter/performance/cache-busting/</loc>
     </url>
     
     <url>
-        <loc>/testing/testing-suite/</loc>
+        <loc>//mmtdigital.github.io/newsletter/testing/testing-suite/</loc>
     </url>
     
     <url>
-        <loc>/accessibility/make-your-website-accessible/</loc>
+        <loc>//mmtdigital.github.io/newsletter/accessibility/make-your-website-accessible/</loc>
     </url>
     
     <url>
-        <loc>/presentations/responsive-images/</loc>
+        <loc>//mmtdigital.github.io/newsletter/presentations/responsive-images/</loc>
     </url>
     
     <url>
-        <loc>/tools/automate-all-the-things/</loc>
+        <loc>//mmtdigital.github.io/newsletter/tools/automate-all-the-things/</loc>
     </url>
     
 </urlset>
