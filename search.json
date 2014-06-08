@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Resources for learning Node.js",
+		  "category"   : "tutorials",
+		  "url"        : "//mmtdigital.github.io/newsletter/tutorials/edge-conference/",
+		  "date"       : "2014-06-08 00:00:00 -0400",
+		  "shortdate"  : "June 08, 2014"
+		} ,
+	
+		{
 		  "title"      : "May Roundup",
 		  "category"   : "summary",
 		  "url"        : "//mmtdigital.github.io/newsletter/summary/may-newsletter/",
